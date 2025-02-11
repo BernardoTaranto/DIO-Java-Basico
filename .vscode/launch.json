@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "OperadoresTernarios",
+            "projectName": "DIO-Java-Basico_e578b6b2"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "OperadoresUnarios",
+            "projectName": "DIO-Java-Basico_e578b6b2"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
