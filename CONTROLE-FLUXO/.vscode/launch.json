@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RessultadoEscolar",
+            "request": "launch",
+            "mainClass": "RessultadoEscolar",
+            "projectName": "CONTROLE-FLUXO_daf3411e"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",
