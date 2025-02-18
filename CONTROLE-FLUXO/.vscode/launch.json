@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "CONTROLE-FLUXO_daf3411e"
+        },
+        {
+            "type": "java",
             "name": "ExemploForEach",
             "request": "launch",
             "mainClass": "ExemploForEach",
